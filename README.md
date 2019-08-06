@@ -5,7 +5,7 @@ PROJECT START STEPS:
 
     Pre-requisites:
     1. Install http-server module (https://www.npmjs.com/package/http-server).
-    2. Install node, npm, angular-cli
+    2. Install node, npm, angular-cli for angular 2
 
     Steps:
     1. To run this application, do the following:
